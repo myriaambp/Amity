@@ -11,7 +11,4 @@ This repo includes all the data and code used by my team and I in the project.
 Check out our [Makeathon Presentation](https://www.canva.com/design/DAEYwW1hjbk/oMB7NR2OQqRwS4eLBiQgLw/view?utm_content=DAEYwW1hjbk&utm_campaign=designshare&utm_medium=link&utm_source=viewer)!
 
 Contributers: 
-Boluwatife Adewale
-Gideon Tesfaye
-Natasha Ravinand
-Myriam Bengoechea Pardo
+Boluwatife Adewale, Gideon Tesfaye, Natasha Ravinand and me (Myriam Bengoechea Pardo)
